@@ -1,6 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
-console.log("\n\tWelcome to \'CodeWithSabi\' -ATM MACHINE\n");
+console.log("\n\tWelcome to \'CodeWithAnnie\' -ATM MACHINE\n");
 let myBalance = 10000;
 let myPin = 1234;
 let pinAnswer = await inquirer.prompt([
